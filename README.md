@@ -1,5 +1,5 @@
 # Provided by Somayeh Komeylian: PhD Student at UCSD & SDSU #
-# Deep Learning #
+# Deep Learning - Set 3 #
 
 # Type of dataset: Image Dataset: Binary classification
 # path = kagglehub.dataset_download("anthonytherrien/dog-vs-cat") #
@@ -15,11 +15,10 @@
     # os.environ['KAGGLE_KEY'] = '78e765f9a66ed233a108a1c33bed73d7'
 # Modify all file paths to match your own setup   
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Provided by Somayeh Komeylian: PhD Student at UCSD & SDSU #
-# Deep Learning #
+# Deep Learning - Set 3 #
 # Type of dataset (Breast Cancer Dataset): Binary classification
 # Method (Not beginning from scratch): 
     # 1. Sequential model in Keras, which is a linear stack of three fully connected (Dense) layers suitable for a feedforward neural network.
